@@ -64,3 +64,10 @@ For more information, see the contributing guidelines.
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+# Support
+If you have any issues or questions, please file an issue on the GitHub repository. We are dedicated to improving QualiPy and appreciate all feedback.
+
+# Acknowledgments
+- Thanks to all the contributors who have helped to shape QualiPy.
+- Special thanks to the data science community for their invaluable insights.
