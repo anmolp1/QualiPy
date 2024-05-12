@@ -1,0 +1,16 @@
+pandas
+simple_salesforce
+cx_Oracle
+google-cloud-bigquery
+mysql-connector-python
+psycopg2
+pyodbc
+pymongo
+cassandra-driver
+elasticsearch
+boto3
+gspread
+google-auth
+confluent-kafka-python
+redis
+snowflake-connector-python
